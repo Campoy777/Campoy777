@@ -10,8 +10,9 @@ Wassup! I´m Gabriel Campoy
 
 ![Campoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Campoy777&theme=tokyonight&show_icons=true)
 
-<br> Daily Technologys <br>
+<br> Daily Technologies </br>
 
 <div style="display: inline_block"><br/>
 img align="center" alt+"html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</div>
 
