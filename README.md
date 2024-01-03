@@ -7,5 +7,5 @@ Wassup! I´m Gabriel Campoy
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+h4NSD2KJjxJlNTdh)
 [![music](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/207QHAbAYxu7d5o2jjQG0V?si=76acb2599fb74ef7)
 
-![Campoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Campoy777&theme=ambient_gradient_icons=true)
+![Campoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Campoy777&theme=ambient_gradient&show_icons=true)
 
