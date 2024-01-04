@@ -18,7 +18,7 @@ Wassup! I´m Gabriel Campoy
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="60" width="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" align="center" alt="C" height="60" width="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" height="60" width="60">
-  <img src="https://www.flaticon.com/br/icone-gratis/janelas_220215?term=windows&page=1&position=1&origin=search&related_id=220215" alt="Windows" height="60" width="60">
+  <img src="https://icon-icons.com/pt/icone/windows-quadrado-forma-marca/59257" alt="Windows" height="60" width="60">
 </div>
 
 
