@@ -8,7 +8,7 @@ Wassup! I´m Gabriel Campoy
 [![music](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/207QHAbAYxu7d5o2jjQG0V?si=76acb2599fb74ef7)
 [![email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](fernandocampoy1@hotmail.com)
 
-![Campoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Campoy777&theme=tokyonight&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Campoy777&hide_progress=true)
+![Campoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Campoy777&theme=tokyonight&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Campoy777&theme=tokyonight&show_progress=true)
 
 <br> Daily Technologies </br>
 
