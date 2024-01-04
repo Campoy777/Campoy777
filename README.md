@@ -1,9 +1,9 @@
 Wassup! I´m Gabriel Campoy
 <BR>I'm from Brazil<BR>
 At the moment, I'm training my skill and getting knowlegde <BR>
-<br>I'm 21 years old and am Junior Developer
+I'm 21 years old and am Junior Developer
 
-
+<bR>
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-campoy)
 [![animelist](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/CampoyBR)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_campoygabriel_/)
