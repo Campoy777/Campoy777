@@ -12,11 +12,13 @@ Wassup! I´m Gabriel Campoy
 
 <br> Daily Technologies </br>
 
+<div style="display: inline_block"><br>
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
+<img align="center" alt="C" height:"30" width:"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![windows](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
+</div>
 
 
