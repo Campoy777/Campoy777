@@ -1,4 +1,4 @@
-<h6>Wassup! I´m Gabriel Campoy </h6>
+<h1>Wassup! I´m Gabriel Campoy </h1>
 <br> At the moment, I'm training my skill and getting knowlegde <BR>
 <BR> </BR>
 
