@@ -2,7 +2,8 @@
 <br> <b> At the moment, I'm training my skill and getting knowlegde </b> <BR>
 <BR> </BR>
 
-CONTACTS:
+<H3> CONTACTS: </H3>
+
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+h4NSD2KJjxJlNTdh)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gHj3UmGx8d)
 [![email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](fernandocampoy1@hotmail.com)
