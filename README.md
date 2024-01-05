@@ -1,5 +1,5 @@
 Wassup! I´m Gabriel Campoy
-At the moment, I'm training my skill and getting knowlegde <BR>
+<br> At the moment, I'm training my skill and getting knowlegde <BR>
 <BR> </BR>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-campoy)
